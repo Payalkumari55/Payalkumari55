@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Payal kumari
-- 👀 I’m interested in Data Analytics,Frontend Development and Data Scientists.
+- 👀 I’m interested in Data Analytics, and Data Scientists.
 - 🌱 I’m currently learning Power BI tool and working on different Projects.
-- 💞️ I’m looking to collaborate on Data Analytics and Frontend Development as a fresher.
+- 💞️ I’m looking to collaborate on Data Analytics as a fresher.
 - 📫 How to reach me follow me on linkedin.
 
 <!---
